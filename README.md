@@ -1,1 +1,7 @@
-# Zavala_Ignacio
+# Curso de programación full stack
+## MÓDULO 2 - Repositorio y WorkFlow
+### Silicon Misiones - https://siliconmisiones.gob.ar/
+#### Ignacio Zavala
+
+Éste repositorio fue creado con fines académicos. Contiene los ejercicios
+resueltos del Módulo 1. 
